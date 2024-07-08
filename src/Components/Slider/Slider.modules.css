@@ -1,0 +1,14 @@
+.thumb{
+    height: 15px;
+    min-width: 5px;
+    border-radius: 10px; 
+}
+.track{
+    border-radius: 15px;
+}
+
+.horizontal-slider{
+    width: 100%;
+    border-radius: 15px;
+    background-color: rgb(209, 203, 203);
+}
