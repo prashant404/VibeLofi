@@ -105,7 +105,7 @@ function chillHop() {
     {
       name: "Nightfall",
       cover:
-        "https://chillhop.com/wp-content/uploads/2020/07/ef95e219a44869318b7806e9f0f794a1f9c451e4-1024x1024.jpg",
+        "https://cdn.pixabay.com/photo/2023/12/28/14/09/cat-8474233_1280.png",
       artist: "Aiguille",
       audio: "https://mp3.chillhop.com/serve.php/?mp3=9148",
       color: ["#EF8EA9", "#ab417f"],
